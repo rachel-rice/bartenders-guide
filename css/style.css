@@ -71,7 +71,6 @@ h2{
  
 }
 input{
-  
   padding: 1rem 2rem;
 }
 
@@ -142,6 +141,12 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+  }
+}
+
+@media screen and (max-width:500px){
+  h1{
+    font-size: 4rem;
   }
 }
 
