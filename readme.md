@@ -1,7 +1,7 @@
 # Bartenders Guide
 Search for a cocktail and get the ingredients and instructions of drink of choice. 
 
-**Link to project:** not hosed at this time
+**Link to project:** https://rachels-bar-guide.netlify.app/
 
 ![alt tag](img/bartenders-guide1.png)
 ![alt tag](img/bartenders-guide2.png)
