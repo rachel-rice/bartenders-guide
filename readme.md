@@ -3,7 +3,8 @@ Search for a cocktail and get the ingredients and instructions of drink of choic
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](img/bartenders-guide1.png)
+![alt tag](img/bartenders-guide2.png)
 
 ## How It's Made:
 
