@@ -1,7 +1,7 @@
 # Bartenders Guide
 Search for a cocktail and get the ingredients and instructions of drink of choice. 
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** not hosed at this time
 
 ![alt tag](img/bartenders-guide1.png)
 ![alt tag](img/bartenders-guide2.png)
